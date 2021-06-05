@@ -17,7 +17,13 @@ func main() {
 	cards.saveToFile("my_cards")
 
 	//Read file from hard drive
+
 	//cards := newDeckFromFile("my_cards")
+	//cards.print()
+
+	//Shuffle the cards
+	//cards := newDeck()
+	//cards.shuffle()
 	//cards.print()
 
 }
