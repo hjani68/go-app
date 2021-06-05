@@ -1,6 +1,6 @@
 # go-app
 
-Cards
+**Cards**
 
 newDeck: Create and return a list of playing cards (array of strings)
 
