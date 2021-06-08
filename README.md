@@ -21,6 +21,9 @@ Shuffle : shuffle all the cards in a deck
 **Structs**
 
 -> Basic struct definition/declaration
+
 -> Embdeeding structs
+
 -> Struct with receiver function
+
 -> Struct with pointers
