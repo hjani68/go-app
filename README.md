@@ -32,5 +32,6 @@ Shuffle : shuffle all the cards in a deck
 
 **Map**
 
-How to use map using key value pair.
+How to use map using key value pair
+
 Delete map using index
