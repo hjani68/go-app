@@ -26,4 +26,6 @@ Shuffle : shuffle all the cards in a deck
 
 -> Struct with receiver function
 
+-> Pass by value
+
 -> Struct with pointers
