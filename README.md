@@ -29,3 +29,8 @@ Shuffle : shuffle all the cards in a deck
 -> Pass by value
 
 -> Struct with pointers
+
+**Map**
+
+How to use map using key value pair.
+Delete map using index
