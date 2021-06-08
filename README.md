@@ -1,5 +1,9 @@
 # go-app
 
+**Hello-World**
+
+Sample go file to say Hello World :)
+
 **Cards**
 
 newDeck: Create and return a list of playing cards (array of strings)
@@ -13,3 +17,10 @@ saveToFile : Save a list of cards to a file on the local machine
 newDeckFromFile: Load a list of cards from the local machine
 
 Shuffle : shuffle all the cards in a deck
+
+**Structs**
+
+-> Basic struct definition/declaration
+-> Embdeeding structs
+-> Struct with receiver function
+-> Struct with pointers
