@@ -35,3 +35,7 @@ Shuffle : shuffle all the cards in a deck
 How to use map using key value pair
 
 Delete map using index
+
+**Interfaces**
+
+How to implement interface
