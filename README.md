@@ -39,3 +39,8 @@ Delete map using index
 **Interfaces**
 
 How to implement interface
+
+
+**HTTP**
+
+Reader interface and how to use Read function.
