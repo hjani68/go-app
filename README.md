@@ -43,4 +43,4 @@ How to implement interface
 
 **HTTP**
 
-Reader/Writeer interface
+Reader/Writer interface
